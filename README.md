@@ -19,6 +19,7 @@ I work as an independent full-stack developer, gradually creating my vision of t
 <img align="left" alt="MongoDb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
 <br />
+<br />
 
 #
 
@@ -31,4 +32,5 @@ I work as an independent full-stack developer, gradually creating my vision of t
 <details>
  <summary><h3>  👨‍💻 Eric's Coding Journey</h3></summary>
     As a naive Electronics and Communication Engineering student, I began my path into coding with a burning desire to understand everything I could about the world of computing. While doing this, I was also training myself in Java development so I could work on the backend of a project, but my main motivation was to become an expert mobile app developer. One aspect of my path, though, has always troubled me: I gave up on my ambition of creating my own software in favor of taking the easy route—getting a job. I've already thrown off that safety net and thrown myself into this strange, unknown world with the determination to always learn modern technologies as I build my projects.  
+</details>
 
